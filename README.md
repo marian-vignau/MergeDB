@@ -17,7 +17,8 @@ To avoid overwrite unique keys,
 
 2) strings: add a suffix to the key's value
 
-Start from tables independent from other's tables keys.
+Start from tables independent from other's tables keys, 
+using foreign key property to parse relationships.
 
 Apply transformation to the values on this firsts tables.
 
