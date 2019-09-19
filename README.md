@@ -3,6 +3,8 @@
 Creates one sqlite database that is two database added, 
 with identical schema.
 
+**new_sqlite = master_sqlite + added_sqlite**
+
 ## Procedure
 
 Copy one database schema and data to the copy.
